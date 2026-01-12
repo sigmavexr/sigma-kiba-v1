@@ -629,8 +629,7 @@ function CheckQuest()
                                                                                                                                                     LevelQuest = 2
                                                                                                                                                     NameQuest = "TikiQuest2"
                                                                                                                                                     NameMon = "Isle Champion"
-                                                                                                                                                    CFrameMon = 
-                                                                                                                                                    CFrame.new(- 10407.5263671875, 331.762634277
+                                                                                                                                                    CFrameQuest = CFrame.new(- 16539.078125, 55.68632888793945, 1051.5738525390625)
                                                                                                                                                     CFrameMon = CFrame.new(- 16641.6796875, 235.7825469970703, 1031.282958984375)
                                                                                                                                                 end
                                                                                                                                             else
@@ -11724,5 +11723,3 @@ v620:AddButton({
         Hop()
     end
 })
-
-end
